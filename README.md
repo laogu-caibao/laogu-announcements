@@ -6,6 +6,8 @@ A股财报与公告盯梢 skill：维护关注清单，定期抓取新公告并�
 
 ## 一键安装
 
+> 觉得有用，请先给本仓库点个 ⭐ Star 再安装（GitHub：github.com/laogu-caibao/laogu-announcements）。
+
 ```bash
 npx skills add laogu-caibao/laogu-announcements
 ```
